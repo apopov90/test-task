@@ -1,0 +1,17 @@
+.left {
+    width: 30%;
+    float: left;
+}
+
+.right {
+    width: 70%;
+    float: right;
+}
+
+table, td, th {
+    border: 1px solid black;
+}
+
+fieldset table, fieldset tr, fieldset td {
+    border: none;
+}
